@@ -39,5 +39,7 @@ fun one() {
 }
 
 fun two() {
+    println("Day 2")
+    println("Validate passwords and keep a count")
 
 }
